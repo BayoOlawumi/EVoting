@@ -1,0 +1,6 @@
+c:\users\aboy\documents\visual studio 2015\Projects\SelfAccessment\SelfAccessment\bin\Debug\SelfAccessment.exe.config
+c:\users\aboy\documents\visual studio 2015\Projects\SelfAccessment\SelfAccessment\bin\Debug\SelfAccessment.exe
+c:\users\aboy\documents\visual studio 2015\Projects\SelfAccessment\SelfAccessment\bin\Debug\SelfAccessment.pdb
+c:\users\aboy\documents\visual studio 2015\Projects\SelfAccessment\SelfAccessment\obj\Debug\SelfAccessment.csprojResolveAssemblyReference.cache
+c:\users\aboy\documents\visual studio 2015\Projects\SelfAccessment\SelfAccessment\obj\Debug\SelfAccessment.exe
+c:\users\aboy\documents\visual studio 2015\Projects\SelfAccessment\SelfAccessment\obj\Debug\SelfAccessment.pdb
